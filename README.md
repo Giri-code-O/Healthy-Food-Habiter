@@ -1,2 +1,2 @@
 # Healthy-Food-Habiter
-This project ws done by Giriprakash Srinivaan From Lovely Professional University
+This project ws done by Giriprakash Srinivasan From Lovely Professional University
